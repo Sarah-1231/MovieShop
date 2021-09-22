@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Small Pig\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Small Pig\\.nuget\\packages"
+    ]
+  }
+}

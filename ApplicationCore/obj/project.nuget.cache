@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lHRrBDgiC28b7FGITR70u6fCCp0kUTm5HYohUxtJ8dQmJ1KNy4XvNwllwB+QX0oIqVGB+KMkNG4rNGZtUSr4og==",
+  "dgSpecHash": "lmKItLkWIILyA+PSdK6/2gJHMoXsquY9agEIxhDQuIoj+gzfrXDG8QVJuhGKFHI8otATMA3H6ULrsUhIht3uEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Small Pig\\source\\repos\\MovieShop\\ApplicationCore\\ApplicationCore.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Small Pig\\Desktop\\MovieShop\\ApplicationCore\\ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Small Pig\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
