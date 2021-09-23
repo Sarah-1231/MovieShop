@@ -27,6 +27,11 @@ namespace ApplicationCore.Entities
         public DateTime? UpdatedDate { get; set; }
         public string UpdatedBy { get; set; }
         public string CreatedBy { get; set; }
+
         public decimal? Rating { get; set; }
+
+        //navigation property: collection trailer 
+        public ICollection<Trailer> Trailers { get; set; }
+        public ICollection<MovieGenre> Genres { get; set; }
     }
 }
