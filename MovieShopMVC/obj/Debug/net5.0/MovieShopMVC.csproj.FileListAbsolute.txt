@@ -122,3 +122,4 @@ C:\Users\Small Pig\Desktop\MovieShop\MovieShopMVC\obj\Debug\net5.0\MovieShopMVC.
 C:\Users\Small Pig\Desktop\MovieShop\MovieShopMVC\obj\Debug\net5.0\MovieShopMVC.csproj.CopyComplete
 C:\Users\Small Pig\Desktop\MovieShop\MovieShopMVC\obj\Debug\net5.0\MovieShopMVC.genruntimeconfig.cache
 C:\Users\Small Pig\Desktop\MovieShop\MovieShopMVC\obj\Debug\net5.0\Razor\Views\Shared\_MovieCard.cshtml.g.cs
+C:\Users\Small Pig\Desktop\MovieShop\MovieShopMVC\obj\Debug\net5.0\Razor\Views\Movies\MovieDetails.cshtml.g.cs
